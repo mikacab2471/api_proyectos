@@ -17,23 +17,6 @@
     "relatedProducts": [1, 3]
 },
 {
-    "id_auto": 3,
-    "name": "Suzuki Celerio",
-    "description": "El Suzuki Celerio es un urbano de cinco puertas y 3,60 metros de longitud. Es el coche más pequeño fabricado por Suzuki, y es una alternativa a coches pequeños para la ciudad como el Hyundai i10, el Opel Karl o el Toyota Aygo. Es un producto básico, barato y sólo disponible con una motorización, apto para poco más que entornos urbanos y periurbanos. Es el reemplazo del Suzuki Alto, un producto también muy sencillo. Si valoras las opciones de personalización o estás buscando más equipamiento, puede que te interesen más urbanos como el Opel Adam o el Fiat 500, orientados a un tipo de público diferente al del Suzuki Celerio.",
-    "cost": 12500,
-    "currency": "USD",
-    "soldCount": 25,
-    "category": "Autos",
-    "images": [
-        "img/Suzuki Celerio/prod1.jpg",
-        "img/Suzuki Celerio/prod1_1.jpg",
-        "img/Suzuki Celerio/prod1_2.jpg",
-        "img/Suzuki Celerio/prod1_3.jpg",
-        "img/Suzuki Celerio/prod1_4.jpg"
-    ],
-    "relatedProducts": [1, 3]
-},
-{
     "id_auto": 2,
     "name": "Fiat Way",
     "description": "Fiat Uno Way cuenta con Sistema de frenos anti bloqueo (ABS), además doble bolsa de aire delantera, sistema de distribución electrónica de frenado (EBD), cinturones traseros retráctiles y cabeceras de altura ajustables.",
@@ -47,6 +30,23 @@
         "img/Fiat Way/prod1_2.jpg",
         "img/Fiat Way/prod1_3.jpg",
         "img/Fiat Way/prod1_4.jpg"
+    ],
+    "relatedProducts": [1, 3]
+},
+{
+    "id_auto": 3,
+    "name": "Suzuki Celerio",
+    "description": "El Suzuki Celerio es un urbano de cinco puertas y 3,60 metros de longitud. Es el coche más pequeño fabricado por Suzuki, y es una alternativa a coches pequeños para la ciudad como el Hyundai i10, el Opel Karl o el Toyota Aygo. Es un producto básico, barato y sólo disponible con una motorización, apto para poco más que entornos urbanos y periurbanos. Es el reemplazo del Suzuki Alto, un producto también muy sencillo. Si valoras las opciones de personalización o estás buscando más equipamiento, puede que te interesen más urbanos como el Opel Adam o el Fiat 500, orientados a un tipo de público diferente al del Suzuki Celerio.",
+    "cost": 12500,
+    "currency": "USD",
+    "soldCount": 25,
+    "category": "Autos",
+    "images": [
+        "img/Suzuki Celerio/prod1.jpg",
+        "img/Suzuki Celerio/prod1_1.jpg",
+        "img/Suzuki Celerio/prod1_2.jpg",
+        "img/Suzuki Celerio/prod1_3.jpg",
+        "img/Suzuki Celerio/prod1_4.jpg"
     ],
     "relatedProducts": [1, 3]
 },
